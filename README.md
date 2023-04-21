@@ -1,7 +1,5 @@
 # The-Path
 
-------
-
 This semester-long university assignment involved developing a simple video game using Codename One. The game features an ant as the player character, navigating a path while avoiding collisions with spiders and keeping the ant fed. The project's primary learning goal was to study object-oriented programming (OOP) design principles.
 
 The game development process was broken down into three distinct parts. In the first part, the focus was on developing a solid initial class hierarchy and control structure. To aid in this process, a UML diagram was created to visually layout the structure and facilitate easier implementation.
